@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  DNACounting
-//
-//  Created by Ritu Prajapati on 9/9/17.
-//  Copyright © 2017 Ritu Prajapati. All rights reserved.
-//
 
 #include <iostream>
 #include <unordered_map>
