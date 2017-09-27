@@ -1,0 +1,14 @@
+>Rosalind_56
+ATTAGA
+CCT
+G
+>Rosalind_57
+CCTGCC
+GGA
+A
+>Rosalind_58
+AGACCTG
+CCG
+>Rosalind_59
+GCCGGAAT
+AC
